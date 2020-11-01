@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "head_bank.h"
 
-void print(struct balance *total_balance, struct currency *val)
+void print(struct balance total_balance, struct currency *val)
     {
     int i = 0;
     int j = 0;
