@@ -38,7 +38,7 @@ int main()
         
 	Check (&total_balance);
 	
-	print (&total_balance, val);
+	print (total_balance, val);
 
         return 0;
         }
